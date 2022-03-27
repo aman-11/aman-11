@@ -28,7 +28,7 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="Salesforce" width="30px" src="./saleforce.png" />][github]
 [<img align="left" alt="LWC" width="30px" src="./lwc.png" />][github]
-[<img align="left" alt="Vlocity" width="60" height="60" src="./vlocity.png" />][github]
+[<img align="left" alt="Vlocity" width="100" height="40" src="./vlocity.png" />][github]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
