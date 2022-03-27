@@ -39,9 +39,11 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 [<img align="left" alt="GraphQL" width="30px" src="https://user-images.githubusercontent.com/68158625/111172658-0edff600-85b7-11eb-8c96-7c10c999784d.png" />][github]
 [<img align="left" alt="Node.js" width="30px" src="https://user-images.githubusercontent.com/68158625/111181059-a39a2200-85be-11eb-936e-f35d0c02ff0f.png" />][github]
 [<img align="left" alt="MongoDB" width="30px" src="https://user-images.githubusercontent.com/68158625/111181186-c1678700-85be-11eb-8db0-e208ba288f5c.png" />][github]
+<br />
+<br />
 [<img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/68158625/111172863-3cc53a80-85b7-11eb-8631-2878c0e254bf.png" />][github]
 [<img align="left" alt="Material UI" width="26px" src="https://user-images.githubusercontent.com/68158625/111176327-4a2ff400-85ba-11eb-8be3-c0480a83c00e.png" />][github]
-<br />
+
 [<img align="left" alt="Tailwind CSS" width="26px" src="./tailwind-css.png" />][github]
 
 <br />
