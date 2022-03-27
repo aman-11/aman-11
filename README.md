@@ -30,7 +30,7 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="NextJs" width="30px" src="./next-js.svg" />][github]
+[<img align="left" styte=" filter: invert(100%);" alt="NextJs" width="30px" src="./next-js.svg" />][github]
 [<img align="left" alt="Redux" width="30px" src="https://user-images.githubusercontent.com/68158625/111172537-f5d74500-85b6-11eb-9f29-ab7d31d1e215.png" />][github]
 [<img align="left" alt="Firebase" width="30px" src="https://user-images.githubusercontent.com/68158625/111172956-51093780-85b7-11eb-897d-aec5645d2da1.png" />][github]
 [<img align="left" alt="GraphQL" width="30px" src="https://user-images.githubusercontent.com/68158625/111172658-0edff600-85b7-11eb-8c96-7c10c999784d.png" />][github]
