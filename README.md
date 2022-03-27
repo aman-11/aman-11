@@ -9,11 +9,11 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 - 🌱 I’m currently building NodeJs x ReactJs projects.
 - 👯 I’m looking to collaborate with other Javascript web developers.
 - 🥅 2022 Goals: Learn more about Web3.js project.
-- 💬 Ask me about: ReactJs, NextJs, Blockchain, Cricket . 
+- 💬 Ask me about: ReactJs, NextJs, Blockchain, Cricket .
 - 🕸 Interests: Web Development 💻, Crytpo 😎, Hooping 🏀, Photography 📸.
 - ⚡ Fun fact: You are always looking at your nose; your brain just chooses to ignore it.
-      
-### Connect with me :earth_india:
+
+### Connect with me:
 
 [<img align="left" alt="ken-white | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/68158625/111182101-a47f8380-85bf-11eb-88f7-8671dcd71331.png" />][linkedin]
 [<img align="left" alt="__whitish__ | Instagram" width="22px" src="https://user-images.githubusercontent.com/68158625/111182157-b19c7280-85bf-11eb-8f51-749e9cb1b8b1.png" />][instagram]
@@ -39,7 +39,6 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 [<img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/68158625/111172863-3cc53a80-85b7-11eb-8631-2878c0e254bf.png" />][github]
 [<img align="left" alt="Material UI" width="26px" src="https://user-images.githubusercontent.com/68158625/111176327-4a2ff400-85ba-11eb-8be3-c0480a83c00e.png" />][github]
 [<img align="left" alt="Material UI" width="26px" src="./tailwind-css.png" />][github]
-
 
 <br />
 <br />
