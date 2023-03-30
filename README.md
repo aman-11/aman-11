@@ -8,7 +8,7 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 
 - 🌱 I’m currently building NodeJs x ReactJs projects.
 - 👯 I’m looking to collaborate with other Javascript web developers.
-- 🥅 2022 Goals: Learn more about Web3.js project.
+- 🥅 2023 Goals: Learn more about Web3.js project.
 - 💬 Ask me about: ReactJs, NextJs, Blockchain, Cricket .
 - 🕸 Interests: Web Development 💻, Crytpo 😎, Hooping 🏀, Photography 📸.
 - ⚡ Fun fact: You are always looking at your nose; your brain just chooses to ignore it.
